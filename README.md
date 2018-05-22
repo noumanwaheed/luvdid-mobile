@@ -8,6 +8,7 @@
 Technologies that have been used while developing the project.
 - Phonegap 6.4.6
 - Materialize 1.0
+- Bootstrap 3.1.1
 - Codeigniter 3.0 
 - PHP 5.6
 - MySQL 5.6
